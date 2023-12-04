@@ -273,3 +273,7 @@ plot_country_correlation(country_name, file_names)
 country_name = 'Pakistan'
 file_names = ['forest_land.csv', 'arable_land.csv', 'GDP.csv', 'CO2.csv', 'population.csv', 'energy_consumption.csv']
 plot_country_correlation(country_name, file_names)
+
+country_name = 'United States'
+file_names = ['forest_land.csv', 'arable_land.csv', 'GDP.csv', 'CO2.csv', 'population.csv', 'energy_consumption.csv']
+plot_country_correlation(country_name, file_names)
